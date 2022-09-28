@@ -1,0 +1,11 @@
+.topBar {
+   background: #f9dc5c;
+   color: #000000;
+   height: 150px;
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   text-align: left;
+   border-radius: 8px;
+}

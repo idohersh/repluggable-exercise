@@ -1,0 +1,21 @@
+.counterControls {
+   display: flex;
+   gap: 20px;
+   align-self: center;
+   justify-self: center;
+}
+
+.button {
+   border: 1px solid #323232;
+   background: transparent;
+   width: 100px;
+   border-radius: 4px;
+   font-size: 30px;
+   cursor: pointer;
+}
+
+.button:hover {
+   border: 1px solid #ffffff;
+   color: #ffff;
+   background: #3c3c3b;
+}

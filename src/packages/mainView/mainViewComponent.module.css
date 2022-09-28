@@ -1,0 +1,18 @@
+.mainView {
+   background: #3c3c3b;
+   /* height: 200px; */
+   color: #fff;
+   text-align: left;
+   padding: 50px;
+   min-height: 100vh;
+}
+
+.slotWrapper {
+   border: 1px solid white;
+   border-radius: 8px;
+   display: flex;
+   flex-direction: column;
+   gap: 40px;
+   overflow: hidden;
+   padding: 20px;
+}
